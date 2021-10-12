@@ -1,3 +1,5 @@
+# DEPRECATED, now in lambda-document-to-pdf
+
 # lambda-ghostscript
 
 This repository contains a compiled version of Ghostscript which works with Amazon Web Services(AWS) Lambda.
